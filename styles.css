@@ -1,0 +1,29 @@
+#leftbox {
+    background-color: #444444;
+    color: white;
+    width: 50%;
+    height: 80%;
+    float: left;
+    padding: 5px;
+}
+
+#rightbox {
+    background-color: white;
+    color: black;
+    height: 80%;
+    float: right;
+    padding: 5px;
+}
+
+.instruction,
+.ivalue {
+    background-color: #000000;
+    color: white;
+    width: 40%;
+    float: left;
+    padding: 3px;
+}
+
+.iline {
+    line-height: 30px;
+}
